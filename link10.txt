@@ -1,0 +1,28 @@
+Data Collection
+
+https://github.com/hasilexperimen/Falcon9/blob/main/JSON.ipynb
+
+Data Collection - Scrapping
+
+https://github.com/hasilexperimen/Falcon9/blob/main/jupyter-labs-webscraping.ipynb
+
+Data Wrangling
+
+https://github.com/hasilexperimen/Falcon9/blob/main/EDA_2.ipynb
+
+EDA with visualization
+
+https://github.com/hasilexperimen/Falcon9/blob/main/EDAVIZ.ipynb
+
+EDA with SQL
+
+IBMCLOUD2
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/ba606e57-cd0c-4299-af4f-f6a630e5331c/view?projectid=9ae77e9a-883b-4270-ae34-6cdc5bdf20c8&context=cpdaas
+
+https://www.youtube.com/watch?v=HTp1SMiGkQI
+
+Predictive Analysis
+
+https://github.com/hasilexperimen/Falcon9/blob/main/model.ipynb
+
+https://www.youtube.com/watch?v=yLJhR5VvayY
